@@ -1,0 +1,19 @@
+.Menu{
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+.logo{
+  height: 75px;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.range {
+  display: flex;
+  justify-content: space-between;
+}
